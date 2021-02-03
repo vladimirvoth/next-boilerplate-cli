@@ -1,0 +1,25 @@
+{
+  "name": "next-boilerplate-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "create": "node create.js",
+    "generate": "node generate.js"
+  },
+  "bin": {
+    "create": "./create.js",
+    "generate": "./generate.js"
+  },
+  "author": "Vladimir Voth",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "figlet": "^1.5.0",
+    "g": "^2.0.1",
+    "inquirer": "^7.3.3",
+    "lodash": "^4.17.20",
+    "node-cmd": "^4.0.0"
+  }
+}
