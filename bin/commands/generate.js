@@ -3,7 +3,6 @@
 const template = require('../../helpers/template.helper');
 
 module.exports = function (options) {
-  console.log(options);
   if (options.length > 1) {
     try {
       switch (options[0]) {
