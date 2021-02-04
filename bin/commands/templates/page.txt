@@ -6,7 +6,7 @@ export default function className() {
   return (
     <div>
       <Head>
-        <title>Next.js Boilerplate</title>
+        <title>className</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main role="main">

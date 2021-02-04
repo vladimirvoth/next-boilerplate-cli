@@ -3,13 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "create": "node create.js",
-    "generate": "node generate.js"
-  },
   "bin": {
-    "create": "./create.js",
-    "generate": "./generate.js"
+    "nb": "./bin/cli.js"
   },
   "author": "Vladimir Voth",
   "license": "ISC",
