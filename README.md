@@ -1,6 +1,6 @@
 # Next.js Boilerplate CLI
 
-This is a CLI for the [Next.js Boilerplate](https://github.com/vladimirvoth/next-boilerplate 'Next.js Boilerplate'). With this CLI you can generate a new project and new pages automatically with a SCSS file and boilerplate as a test.
+This is a CLI for the [Next.js Boilerplate](https://github.com/vladimirvoth/next-boilerplate 'Next.js Boilerplate'). With this CLI you can generate a new project and new pages automatically with a SCSS file and testing boilerplate. In case you don't know what Next.js is, it's a React framework that enbales functionality such as server-side rendering and generating static websites. Learn more about [Next.js](https://nextjs.org/ 'Next.js').
 
 <img alt="screenshot" src="https://user-images.githubusercontent.com/72044044/107087295-8aea5f80-67fb-11eb-9c5f-5ba77ee070f0.png">
 
@@ -9,6 +9,10 @@ This is a CLI for the [Next.js Boilerplate](https://github.com/vladimirvoth/next
 ```bash
 npm i -g next-boilerplate-cli
 ```
+
+## Next.js
+
+Next.js is a React framework that enbales functionality such as server-side rendering and generating static websites. Learn more about Nex.js
 
 ## Boilerplate features already include
 
