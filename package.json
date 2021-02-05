@@ -1,6 +1,6 @@
 {
   "name": "next-boilerplate-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a CLI for the Next.js Boilerplate (https://github.com/vladimirvoth/next-boilerplate). With this CLI you can generate a new project and generate new pages automatically with a SCSS file and boilerplate for a test.",
   "keywords": [
     "next",
