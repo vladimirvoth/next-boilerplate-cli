@@ -14,7 +14,7 @@ npm i -g next-boilerplate-cli
 
 Next.js is a React framework that enbales functionality such as server-side rendering and generating static websites. Learn more about Nex.js
 
-## Boilerplate features already includes
+## Boilerplate features already included
 
 <br/>
 
@@ -29,8 +29,6 @@ Next.js is a React framework that enbales functionality such as server-side rend
 <img alt="Cypress.io" height="50" style="margin-right: 10px" src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png">
 
 <img alt="Jest" height="50" style="margin-right: 10px" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png">
-
-<br/>
 
 - **Typescript**
 - **SCSS/SAAS**
