@@ -20,13 +20,16 @@ module.exports = function () {
   const run = async () => {
     const data = await inquirer.initProject();
 
-    const git = `git clone git@github.com:vladimirvoth/next-boilerplate.git ${data.projectName}`;
+    const gitCommand =
+      data.withStorybook === 'yes'
+        ? `git clone --single-branch -b with-storybook git@github.com:vladimirvoth/next-boilerplate.git ${data.projectName}`
+        : `git clone git@github.com:vladimirvoth/next-boilerplate.git ${data.projectName}`;
 
     console.log(`Creating ${data.projectName} ...`);
 
     cmd.get(
       `
-      ${git}
+      ${gitCommand}
       cd ${data.projectName}
       rm -rf .git
     `,
