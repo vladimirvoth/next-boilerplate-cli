@@ -14,23 +14,22 @@ npm i -g next-boilerplate-cli
 
 Next.js is a React framework that enbales functionality such as server-side rendering and generating static websites. Learn more about Nex.js
 
-## Boilerplate features already include
-
-<img alt="TypeScript" height="50" style="margin-right: 20px" src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg">
-
-<img alt="SASS" height="50" style="margin-right: 20px" src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png">
-
-<img alt="Storybook" height="50" style="margin-right: 20px" src="https://raw.githubusercontent.com/storybookjs/brand/059f152ecfa4e9895380cb0e4a1f48cf80311a69/logo/logo-storybook-default.svg">
+## Boilerplate features already includes
 
 <br/>
 
-<img alt="Docker" height="50" style="margin-right: 20px" src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png">
+<img alt="TypeScript" height="50" style="margin-right: 10px" src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg">
 
-<img alt="Cypress.io" height="50" style="margin-right: 20px" src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png">
+<img alt="SASS" height="50" style="margin-right: 10px" src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png">
 
-<img alt="Jest" height="50" style="margin-right: 20px" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png">
+<img alt="Storybook" height="50" style="margin-right: 10px" src="https://raw.githubusercontent.com/storybookjs/brand/059f152ecfa4e9895380cb0e4a1f48cf80311a69/logo/logo-storybook-default.svg">
 
-<br/>
+<img alt="Docker" height="50" style="margin-right: 10px" src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png">
+
+<img alt="Cypress.io" height="50" style="margin-right: 10px" src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png">
+
+<img alt="Jest" height="50" style="margin-right: 10px" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png">
+
 <br/>
 
 - **Typescript**
